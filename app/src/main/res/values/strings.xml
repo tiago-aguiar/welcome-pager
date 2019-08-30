@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WelcomePager</string>
+    <string name="dotted">&#8226;</string>
+</resources>
